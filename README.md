@@ -1,6 +1,6 @@
 ## Description
 
-The right way to estimate the performance of the model
+The right way to estimate the performance of a model (applied to the Ionosphere dataset)
 
 ## Content
 
